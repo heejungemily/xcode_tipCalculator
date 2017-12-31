@@ -2,7 +2,7 @@
 
 Submitted by: Emily Heejung Son
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -31,7 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The optional components of the assignment were challenging as they required
+more research from outside resources.
 
 ## License
 
